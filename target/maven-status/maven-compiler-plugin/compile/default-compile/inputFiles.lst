@@ -1,6 +1,6 @@
-/home/knoldus/lambda-project/src/main/java/com/example/models/Response.java
-/home/knoldus/lambda-project/src/main/java/com/example/handler/LambdaHandler.java
-/home/knoldus/lambda-project/src/main/java/com/example/utils/constant/Constants.java
-/home/knoldus/lambda-project/src/main/java/com/example/utils/fileprocessor/FileReader.java
-/home/knoldus/lambda-project/src/main/java/com/example/utils/config/ConfigReader.java
-/home/knoldus/lambda-project/src/main/java/com/example/models/Request.java
+C:\Users\C59585\mvnProjects\sammvnproject\src\main\java\com\example\models\Request.java
+C:\Users\C59585\mvnProjects\sammvnproject\src\main\java\com\example\utils\config\ConfigReader.java
+C:\Users\C59585\mvnProjects\sammvnproject\src\main\java\com\example\utils\fileprocessor\FileReader.java
+C:\Users\C59585\mvnProjects\sammvnproject\src\main\java\com\example\handler\LambdaHandler.java
+C:\Users\C59585\mvnProjects\sammvnproject\src\main\java\com\example\models\Response.java
+C:\Users\C59585\mvnProjects\sammvnproject\src\main\java\com\example\utils\constant\Constants.java
